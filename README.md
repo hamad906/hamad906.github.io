@@ -1,2 +1,3 @@
-#hamad906.github.io
+https://hamad906.github.io
+
 my man
